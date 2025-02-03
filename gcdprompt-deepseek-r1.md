@@ -4,7 +4,7 @@
 
 write gcd algorithm using typetheory
 
-[Chat Screenshot](/link.jpg)
+[Chat Screenshot](/img/gcdprompt-deepseek-r1-020325.jpeg)
 
 ## CHAIN OF THOUGHT
 
