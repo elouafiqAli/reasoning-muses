@@ -6,6 +6,7 @@ Write gcd algorithm using type theory
 
 [O3 Mini Chat Link](https://chatgpt.com/share/67a0acfb-2024-800f-91db-008d13aa5afe)
 
+![Chat Screenshot](/img/gcdprompt-o3-mini.jpeg)
 ## CHAIN OF THOUGHT
 
 Reasoned about GCD algorithm in type theory pendant 6 secondes
