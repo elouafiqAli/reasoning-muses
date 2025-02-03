@@ -2,6 +2,7 @@
 ## PROMPT 
  
 write gcd algorithm using typetheory
+![Chat Screenshot](/img/gcdprompt-qwen-2.5-plus.jpeg)
 
 ## ANSWER
 
