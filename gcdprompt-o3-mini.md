@@ -1,8 +1,8 @@
-# GCD PROMPT - OPEN AI O3-MINI ANSWER (02032025)
+# OPEN AI O3-MINI (31012025) - GCD PROMPT 
 
 ## PROMPT 
 
-Write gcd algorithm using type theory
+Write gcd algorithm using typetheory
 
 [O3 Mini Chat Link](https://chatgpt.com/share/67a0acfb-2024-800f-91db-008d13aa5afe)
 
